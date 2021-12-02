@@ -4,6 +4,9 @@ vendor/
 # Other files and folders
 vendor/
 
+#Config/profiles
+profiles/*.json
+
 # Executables
 *.zip
 *.sql
