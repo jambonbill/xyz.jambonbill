@@ -4,6 +4,9 @@ vendor/
 # Other files and folders
 vendor/
 
+#composer
+composer.lock
+
 #Config/profiles
 profiles/*.json
 

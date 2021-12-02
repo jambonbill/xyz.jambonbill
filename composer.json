@@ -1,0 +1,27 @@
+{
+	"type": "project",
+
+    "authors": [
+        {
+            "name": "Jambonbill",
+            "email": "jambonbill@gmail.com",
+            "homepage": "https://github.com/jambonbill"
+        }
+    ],
+
+    "autoload": {
+        "psr-0": {
+            "JAM": "src/",
+            "CRM": "src/"
+        }
+    },
+
+    "require": {
+    	"php": ">=7.0.0",
+        "ext-pdo": "*",
+        "jambonbill/djang": ">=1.1.0",
+	"monolog/monolog": "~1.1",
+        "erusev/parsedown": "^1.7",
+	"symfony/mailer": "^5.2"
+    }
+}
