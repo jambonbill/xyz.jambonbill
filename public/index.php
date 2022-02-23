@@ -68,9 +68,9 @@ div.container-fluid{
   <div class="card-body">
     <h5 class="card-title">jambonbill.xyz</h5>
     <p class="card-text">PETSCII / Textmode NFT</p>
-    <a href="#" class="btn btn-dark">fxhash.xyz/u/jambonbill</a><br />
+    <a href="https://www.fxhash.xyz/u/jambonbill" class="btn btn-dark">fxhash.xyz/u/jambonbill</a><br />
     <br />
-    <a href="#" class="btn btn-dark">teia.art/jambonbill</a><br />
+    <a href="https://teia.art/jambonbill" class="btn btn-dark">teia.art/jambonbill</a><br />
 
   </div>
 </div>
